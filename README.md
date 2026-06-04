@@ -142,6 +142,4 @@ Response:
 
 The agent executes AI-generated Python code. Docker provides an isolated sandbox environment that prevents generated code from directly affecting the host machine.
 
-## Author
 
-Sarvesh
