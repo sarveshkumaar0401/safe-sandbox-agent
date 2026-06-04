@@ -13,22 +13,7 @@ A Safe Sandbox Code Execution Agent built using FastAPI, PydanticAI, Ollama (Qwe
 
 ## Architecture
 
-User
-↓
-FastAPI
-↓
-PydanticAI Agent
-↓
-Tool Selection
-├── run_python()
-│   ↓
-│ Docker Sandbox
-│
-├── save_text()
-│
-└── show_report()
-↓
-Response
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b938f102-1e3b-4441-9331-aa6fdf523558" />
 
 ## Available Tools
 
