@@ -1,0 +1,5 @@
+Average = 3.0
+Test data
+Test data
+Hello from agent
+FastAPI Works
